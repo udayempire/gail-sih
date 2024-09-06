@@ -8,8 +8,8 @@ export const Activity = () => {
         <div className="w-screen h-screen bg-home-right overflow-y-hidden">
             <Navbar />
             <div className="h-screen flex">
-                <Sidebar/>
                 {/* Sidebar (Dashboard) */}
+                <Sidebar/>
                 {/* Main Content Area */}
                 <div className="flex-1 p-8 ">
                     {/* Center the content in the middle of the main content area */}

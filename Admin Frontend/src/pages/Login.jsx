@@ -1,4 +1,5 @@
-import { Inputbox } from "../Component/inputbox"
+import { Inputbox } from "../Component/Inputbox"
+import { Button } from "../Component/button"
 import { Link } from "react-router-dom"
 export const Login = () => {
     return <div className="w-screen rounded-md h-screen drop-shadow-2xl flex justify-center items-center  bg-light-white ">
@@ -13,9 +14,7 @@ export const Login = () => {
                         <Inputbox label={"Username"} type={"text"} />
                         <Inputbox label={"Password"} type={"password"} />
                         <Link to="/">
-                        <button className="p-3 w-80 bg-maroon hover:bg-maroon-light rounded-3xl text-white font-semibold my-4">
-                            Sign In
-                        </button>
+                        <Button label={"Sign In"}/>
                         </Link>
                         <div className="flex justify-between">
                             <div className="flex gap-2">

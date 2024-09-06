@@ -13,6 +13,7 @@ export default {
         "maroon":"#6b1010",
         "maroon-light":"#3e0101",
         "gray":"#EEEEEE",
+        "graydeep":"#9F9F9F",
         "home-right":"#F2F1E7",
         "home-left":"rgba(83,37,11,.3)",
         "1stfont":"#7E6200",

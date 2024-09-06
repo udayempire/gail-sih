@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 export function Sidebar() {
-    return <div className="w-60 bg-home-left p-4">
+    return <div className="w-60 bg-home-left p-4 h-full">
             <div className="flex flex-col gap-10 my-10 font-semibold text-2ndfont ">
                     <Link to="/insights" className="hover:text-black">Insights</Link>
                     <Link to="/addemployee" className="hover:text-black">Add New Employee</Link>
