@@ -8,7 +8,11 @@ export default {
     extend: {
       colors:{
         "light-white":"#fffbd5",
-        "home-right":"#FFFBD7"
+        "light-blue":"rgba(191, 201, 255, 0.5)",
+        "gray":"#EEEEEE",
+        "home-right":"#F2F1E7",
+        "home-left":"rgba(83,37,11,.3)",
+        "1stfont":"#7E6200"
       }
 
     },
