@@ -20,7 +20,6 @@ export const AddEmployee = () => {
                         <img src="empPic.svg" alt="" />
                         <h1 className="text-2ndfont font-semibold text-xl">Add Employee Picture</h1>
                         <Button label={"Click To Select"} />
-
                     </div>
                     {/* Right */}
                     <div className="relative bottom-10">

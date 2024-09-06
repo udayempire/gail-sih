@@ -4,6 +4,8 @@ import {Home} from "./pages/Home"
 import { Login } from "./pages/Login"
 import { Activity } from "./pages/Recent_Activity"
 import { AddEmployee } from './pages/AddEmployee'
+import { UpdateEmployee } from './pages/UpdateEmployee'
+import { ManualCheckin } from './pages/ManualCheckin'
 function App() {
 
 
@@ -15,6 +17,8 @@ function App() {
         <Route path="/login" element= {<Login/>}/>
         <Route path="/activity" element= {<Activity/>}/>
         <Route path="/addEmployee" element= {<AddEmployee/>}/>
+        <Route path="/updateEmployee" element= {<UpdateEmployee/>}/>
+        <Route path="/manualcheckin" element= {<ManualCheckin/>}/>
       </Routes>
 
     </BrowserRouter>
