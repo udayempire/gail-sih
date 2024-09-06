@@ -13,7 +13,7 @@ export const Login = () => {
                         <Inputbox label={"Username"} type={"text"} />
                         <Inputbox label={"Password"} type={"password"} />
                         <Link to="/">
-                        <button className="p-3 w-80 bg-pink-800 rounded-3xl text-white font-semibold my-4">
+                        <button className="p-3 w-80 bg-maroon hover:bg-maroon-light rounded-3xl text-white font-semibold my-4">
                             Sign In
                         </button>
                         </Link>
