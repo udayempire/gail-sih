@@ -34,7 +34,7 @@ export const AddEmployee = () => {
                             <Inputbox2 label={"Employee Password"} width="500px" />
                             <Inputbox2 label={"Employee Role"} width="500px"/>
                             <Inputbox2 label={"Employee ID"} width="500px"/>
-                            <Button label={"Add"}/>
+                            <Button label={"Add"} width="10rem"/>
 
                         </div>
                     </div>
