@@ -3,6 +3,7 @@ import { Recentbar } from "../Component/Recentbar";
 import {  Sidebar } from "../Component/Sidebar";
 
 
+
 export const Activity = () => {
     return (
         <div className="w-screen h-screen bg-home-right overflow-y-hidden">
@@ -28,10 +29,11 @@ export const Activity = () => {
                             <div className="flex justify-around font-bold text-xl text-1stfont">
                                 <div className="relative left-16">Employee</div>
                                 <div className="flex gap-20">
-                                    <div className="relative left-6">In-Time</div>
-                                    <div className="relative left-6">Out-Time</div>
-                                    <div className="relative left-7">Working Hour</div>
-                                    <div className="relative right-3">Last Location</div>
+                                    <div className="relative left-8">In-Time</div>
+                                    <div className="relative left-10">Out-Time</div>
+                                    <div className="relative left-12">Working Hour</div>
+                                    <div className="relative left-6">Check-In Location</div>
+                                    <div className="relative left-12">Check-Out Location</div>
                                 </div>
                             </div>
                         </div>

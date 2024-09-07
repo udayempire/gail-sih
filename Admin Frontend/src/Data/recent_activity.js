@@ -5,7 +5,9 @@ export const recentActivity = [
         inTime: "08:00",
         outTime: "16:00",
         workHour: "08:00 Hrs",
-        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh"
+        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh",
+        latitude: "23.2509904",
+        longitude: "77.5261482",
     },
     {
         employeeFname: "Uday",
@@ -13,7 +15,9 @@ export const recentActivity = [
         inTime: "08:00",
         outTime: "23:00",
         workHour: "15:00 Hrs",
-        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh"
+        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh",
+        latitude: "23.2509904",
+        longitude: "77.5261482",
     },
     {
         employeeFname: "Riya",
@@ -21,7 +25,9 @@ export const recentActivity = [
         inTime: "08:00",
         outTime: "18:00",
         workHour: "10:00 Hrs",
-        lastLocation: "Gail Vijyapur, Guna Madhya Pradesh"
+        lastLocation: "Gail Vijyapur, Guna Madhya Pradesh",
+        latitude: "23.2509904",
+        longitude: "77.5261482",
     },
     {
         employeeFname: "Athar",
@@ -29,7 +35,9 @@ export const recentActivity = [
         inTime: "08:00",
         outTime: "17:00",
         workHour: "09:00 Hrs",
-        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh"
+        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh",
+        latitude: "23.2509904",
+        longitude: "77.5261482",
     },
     {
         employeeFname: "Rahul",
@@ -37,7 +45,9 @@ export const recentActivity = [
         inTime: "08:00",
         outTime: "12:00",
         workHour: "04:00 Hrs",
-        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh"
+        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh",
+        latitude: "23.2509904",
+        longitude: "77.5261482",
     },
     {
         employeeFname: "Oosika",
@@ -45,7 +55,9 @@ export const recentActivity = [
         inTime: "08:00",
         outTime: "10:00",
         workHour: "02:00 Hrs",
-        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh"
+        lastLocation: "Gail Vijyapur,Guna Madhya Pradesh",
+        latitude: "23.2509904",
+        longitude: "77.5261482",
     },
 ]
 

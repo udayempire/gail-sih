@@ -17,13 +17,14 @@ export const Insights = () => {
                             </select>
                         </div>
                 </div>
-                <div className="flex">
-                    <div>
-                        <img src="overview.svg" alt="" />
-                    </div>
-                    <div>
-                        <img src="oncampus.svg" alt="" />
-                        <img src="offsite.svg" alt="" />
+                <div className="flex flex-col">
+                    <div className="flex">
+                        <img src="overview.svg" alt="" className="w-[34rem] h-[21rem]" />
+                        <img src="map.svg" className="w-[26rem] " alt="" />
+                    </div> 
+                    <div className="flex">
+                        <img src="oncampus.svg" alt="" className="relative left-10" />
+                        <img src="offsite.svg" alt="" className="relative  left-24 w-[27rem]"/>
                     </div>
                 </div>
             </div>
