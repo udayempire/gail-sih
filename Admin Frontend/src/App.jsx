@@ -6,6 +6,7 @@ import { Activity } from "./pages/Recent_Activity"
 import { AddEmployee } from './pages/AddEmployee'
 import { UpdateEmployee } from './pages/UpdateEmployee'
 import { ManualCheckin } from './pages/ManualCheckin'
+import { Insights } from './pages/Insights'
 function App() {
 
 
@@ -19,6 +20,7 @@ function App() {
         <Route path="/addEmployee" element= {<AddEmployee/>}/>
         <Route path="/updateEmployee" element= {<UpdateEmployee/>}/>
         <Route path="/manualcheckin" element= {<ManualCheckin/>}/>
+        <Route path="/insights" element= {<Insights/>}/>
       </Routes>
 
     </BrowserRouter>

@@ -15,7 +15,7 @@ export const UpdateEmployee = () => {
                         <h1 className="font-bold text-2xl mb-4 text-1stfont">Update Employee Details</h1>
                         <div className="flex items-center space-x-4"> {/* Added horizontal spacing */}
                             <div className="font-semibold text-2xl">Enter Employee ID:</div>
-                            <Inputbox color="#E4D3C9" />
+                            <Inputbox type={"text"}  color="#E4D3C9" />
                             <Button label={"Search"} width={"13rem"} />
                         </div>
                 <img src="line.svg" alt="" className="" />

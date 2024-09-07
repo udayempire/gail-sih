@@ -67,7 +67,7 @@ export function Checkinbar() {
                                     <div>
                                         <p className="w-36 mt-2 py-2 bg-darkgray text-white text-center rounded-lg flex items-center gap-2 justify-center">
                                             <img src="info.svg" alt="Info" className="ml-1" />
-                                            <p className="text-sm font-semibold mr-1">Review Check-In</p>
+                                            <p className="text-sm font-semibold mr-1 cursor-pointer">Review Check-In</p>
                                         </p>
                                     </div>
                                 </div>
@@ -75,7 +75,7 @@ export function Checkinbar() {
                                 <div>
                                     <p className="w-36 mt-2 py-2 bg-darkgray text-white text-center rounded-lg flex items-center gap-2 justify-center">
                                         <img src="info.svg" alt="Info" className="ml-1" />
-                                        <p className="text-sm font-semibold mr-1 h-8 flex items-center">Review Details</p>
+                                        <p className="text-sm font-semibold mr-1 h-8 flex items-center cursor-pointer">Review Details</p>
                                     </p>
                                 </div>
                             )}
