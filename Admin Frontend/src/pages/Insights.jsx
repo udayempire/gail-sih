@@ -19,12 +19,11 @@ export const Insights = () => {
                 </div>
                 <div className="flex flex-col">
                     <div className="flex">
-                        <img src="overview.svg" alt="" className="w-[34rem] h-[21rem]" />
-                        <img src="map.svg" className="w-[26rem] " alt="" />
+                        <img src="gmaps.svg" className="w-[72rem] h-[18rem]" alt="" />
                     </div> 
-                    <div className="flex">
-                        <img src="oncampus.svg" alt="" className="relative left-10" />
-                        <img src="offsite.svg" alt="" className="relative  left-24 w-[27rem]"/>
+                    <div className="flex justify-around mt-1">
+                        <img src="attoverview.svg" alt="" className="w-[24rem] h-[16rem]" />
+                        <img src="offsiteonsite.svg" alt="" className="relative w-[20rem]"/>
                     </div>
                 </div>
             </div>
