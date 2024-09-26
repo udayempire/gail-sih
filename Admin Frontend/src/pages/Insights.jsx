@@ -19,7 +19,7 @@ export const Insights = () => {
                 </div>
                 <div className="flex flex-col">
                     <div className="flex">
-                        <img src="gmaps.svg" className="w-[72rem] h-[18rem]" alt="" />
+                        <img src="gmaps.svg" className="w-[72rem] h-[16rem]" alt="" />
                     </div> 
                     <div className="flex justify-around mt-1">
                         <img src="attoverview.svg" alt="" className="w-[24rem] h-[16rem]" />
