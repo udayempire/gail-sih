@@ -17,7 +17,7 @@ export const AddEmployee = () => {
                 <div className="flex ">
                     {/* left */}
                     <div className="m-24 flex flex-col gap-5 items-center">
-                        <img src="empPic.svg" alt="" />
+                        <img src="empPic.svg" alt="" className="drop-shadow-2xl" />
                         <h1 className="text-2ndfont font-semibold text-xl">Add Employee Picture</h1>
                         <Button label={"Click To Select"} />
                     </div>
