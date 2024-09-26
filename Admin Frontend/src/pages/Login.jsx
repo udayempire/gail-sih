@@ -6,7 +6,7 @@ export const Login = () => {
         <div className="">
             <div className="flex  justify-center items-center gap-4  bg-white">
                 <div className="h-[27rem] flex flex-col justify-center">
-                    <img src="gtrack-login.svg"  alt="" className="mx-auto drop-shadow-2xl" />
+                    <img src="gtrack-login.svg"  alt="" className="mx-auto drop-shadow-2xl relative right-6" />
                 </div>
                 <div className="mx-10 ">
                     <h1 className="font-semibold text-2xl mb-8">Sign In</h1>
