@@ -1,4 +1,4 @@
-import { Button } from "../Component/button"
+import { Button } from "../Component/Button"
 import { Navbar } from "../Component/Navbar"
 import { Inputbox2 } from "../Component/Inputbox2"
 import { Inputbox } from "../Component/Inputbox"

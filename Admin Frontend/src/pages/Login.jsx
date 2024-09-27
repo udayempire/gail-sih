@@ -1,5 +1,5 @@
 import { Inputbox } from "../Component/Inputbox"
-import { Button } from "../Component/button"
+import { Button } from "../Component/Button"
 import { Link } from "react-router-dom"
 export const Login = () => {
     return <div className="w-screen rounded-md h-screen drop-shadow-2xl flex justify-center items-center  bg-light-white ">
