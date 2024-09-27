@@ -4,7 +4,7 @@ import {Home} from "./pages/Home"
 import { Login } from "./pages/Login"
 import { Activity } from "./pages/Recent_Activity"
 import { AddEmployee } from './pages/AddEmployee'
-import { UpdateEmployee } from './pages/UpdateEmployee'
+import { UpdateEmployee } from './pages/updateEmployee'
 import { ManualCheckin } from './pages/ManualCheckin'
 import { Insights } from './pages/Insights'
 function App() {
