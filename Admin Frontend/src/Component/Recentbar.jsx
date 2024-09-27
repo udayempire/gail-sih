@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { collection, getDocs } from "firebase/firestore";
 import { db } from "../Firebase"; // Ensure this is the correct path to your Firebase setup
-import { Button } from "./button";
+import { Button } from "./Button";
 
 export function Recentbar() {
     const [activityData, setActivityData] = useState([]);
