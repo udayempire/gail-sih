@@ -1,4 +1,4 @@
-import { Checkinbar } from "../Component/Checkinbar";
+// import { Checkinbar } from "../Component/Checkinbar";
 import { Navbar } from "../Component/Navbar";
 import { Sidebar } from "../Component/Sidebar";
 
@@ -38,7 +38,7 @@ export const ManualCheckin = () => {
                             </div>
                         </div>
                         <div>
-                            <Checkinbar />
+                            {/* <Checkinbar /> */}
                         </div>
                     </div>
                 </div>
