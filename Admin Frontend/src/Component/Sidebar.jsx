@@ -25,7 +25,8 @@ export function Sidebar() {
                         </Link>
                         <Link to="/activity" className="hover:text-black hover:bg-blue-200 hover:rounded-md hover:ease-in duration-150 flex flex-col items-center p-1">
                             <FontAwesomeIcon icon={faClock} style={{ color: "#0037FF", fontSize: "24px", width: "16px", height: "18px" }} />
-                            <span>Recent Activity</span>
+                            <span>Recent</span>
+                            <span>Activity</span>
                         </Link>
                         <Link to="/addemployee" className="hover:text-black hover:bg-blue-200  hover:rounded-md hover:ease-in duration-150 flex flex-col items-center p-1">
                             <FontAwesomeIcon icon={faUserPlus} style={{ color: "#0037FF", fontSize: "24px", width: "16px", height: "18px" }} />
