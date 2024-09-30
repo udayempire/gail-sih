@@ -19,7 +19,7 @@ export function Sidebar() {
                 <div className="w-30 bg-white p-4 h-full">
                     <div className="flex flex-col gap-6 my-10 font-bold text-xs text-blue-700 drop-shadow-2xl">
                         {/* Make icons stacked on top of their labels */}
-                        <Link to="/insights" className="hover:text-black hover:bg-blue-200  hover:rounded-md hover:ease-in duration-150 flex flex-col items-center p-1">
+                        <Link to="/" className="hover:text-black hover:bg-blue-200  hover:rounded-md hover:ease-in duration-150 flex flex-col items-center p-1">
                             <FontAwesomeIcon icon={faChartSimple} style={{ color: "#0037FF", fontSize: "24px", width: "16px", height: "18px" }} />
                             <span>Dashboard</span>
                         </Link>
